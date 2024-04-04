@@ -40,9 +40,9 @@ h1{
 .receptu img{
     width: 200px;
     height: 150px;
-    border-radius: 20px; /* Закругление краев */
-    border: 2px solid black; /* Обводка толщиной 2 пикселя и цветом черного */
-    padding: 7px; /* Отступ от обводки до изображения */
+    border-radius: 20px; 
+    border: 2px solid black; 
+    padding: 7px; 
 }
 .item img{
     width: 350px;
