@@ -1,0 +1,57 @@
+footer{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 200px;
+    background-color: white;
+}
+h1{
+    margin-top: 2%;
+    text-align: center;
+}
+.podborka img{
+    width:100px;
+    height: 100px;
+}
+.podborka{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding:25px;
+}
+.podborka p{
+    margin-top: 5px;
+    font-size: 18px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.menua {
+    text-decoration: none; 
+    color: black; 
+    border: 1px solid black; 
+    padding: 5px 10px; 
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); 
+}
+.menua:hover {
+    color: gray; 
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
+}
+.receptu{
+    margin-top:50px;
+}
+.receptu img{
+    width: 200px;
+    height: 150px;
+    border-radius: 20px; /* Закругление краев */
+    border: 2px solid black; /* Обводка толщиной 2 пикселя и цветом черного */
+    padding: 7px; /* Отступ от обводки до изображения */
+}
+.item img{
+    width: 350px;
+    height: 500px
+}
+h3{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.poditem{
+    width: 50%
+}
